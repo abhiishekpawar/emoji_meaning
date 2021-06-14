@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  padding: 1rem;
+  height: 50%;
+  width: 80%;
+  border-radius: 5mm;
+}
+body {
+  background-image: url(https://bit.ly/2SxDGTB);
+  background-size: cover;
+}
